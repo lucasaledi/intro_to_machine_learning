@@ -41,7 +41,7 @@ Wish me luck.
 ### <a href=#references>References</a>
 
 
-#Credits
+# Credits
 github.com/lucasaledi
 
 udacity.com
